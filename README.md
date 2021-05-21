@@ -33,5 +33,5 @@ HoneyLyrics 팀 아이디어 회의록
 2. 모델제작
 
 ## 기술 스택
-<img src= ./Presentation1/TechStack.png>
+<img src= ./Presentation1/TechStack.jpg>
 
